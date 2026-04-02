@@ -1,0 +1,4 @@
+2026-04-02 21:53:21,453 - INFO - Reading CSV file from Network_Data/phisingData.csv
+2026-04-02 21:53:21,824 - INFO - Conversion successful
+2026-04-02 21:53:27,731 - INFO - Connecting to MongoDB at mongodb+srv://Yash:mongodb@cluster0.oipdhrr.mongodb.net/?appName=Cluster0
+2026-04-02 21:53:55,182 - INFO - Inserted 11055 records into MongoDB
